@@ -4,4 +4,4 @@
 
 <br><br>
 
-<p><img align="left" src="https://qazer2687.vercel.app/api/top-langs?username=qazer2687&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=12&exclude_repo=backup,stats,jade,oxen" alt="qazer2687" /></p> <!-- &hide=javascript,css,scss,html --> 
+<p><img align="left" src="https://qazer2687.vercel.app/api/top-langs?username=qazer2687&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=12&exclude_repo=stats,obsidian" alt="qazer2687" /></p> <!-- &hide=javascript,css,scss,html --> 
